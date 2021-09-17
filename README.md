@@ -9,3 +9,4 @@ Run `npx tsc` to compile typescript file. Place the `dist/src/template.js` into 
 * Console
 * Customize deployed instance name
 * Fuzzing
+* auto add constructor
